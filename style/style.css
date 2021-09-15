@@ -6,6 +6,7 @@ header {
   max-width: 100%;
   height: 1022px;
   margin: 0 auto;
+  padding-top: 425px;
 }
 
 header .navbar {
@@ -14,6 +15,7 @@ header .navbar {
   width: 100%;
   height: 60px;
   position: fixed;
+  top: 0px;
 }
 
 header .navbar a {
@@ -36,8 +38,7 @@ header .label-header {
   letter-spacing: 14.3px;
   text-align: center;
   color: #fff;
-  height: 107px;
-  padding-top: 431px;
+  margin: 0 auto;
 }
 
 header .label-header::before {
@@ -60,5 +61,22 @@ header .label-header::after {
   background-color: #fff;
   margin: 0 auto;
   margin-top: 30px;
+  margin-bottom: 26px;
+}
+
+header .label-header-tags {
+  opacity: 0.7;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  letter-spacing: 0.88px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+#about {
+  width: 100%;
+  height: 702px;
+  background-color: #fff;
+  padding-top: 119px;
 }
 /*# sourceMappingURL=style.css.map */
