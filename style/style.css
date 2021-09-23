@@ -79,4 +79,46 @@ header .label-header-tags {
   background-color: #fff;
   padding-top: 119px;
 }
+
+#about .about-text-wrapper {
+  margin-top: 53px;
+}
+
+#about .about-text-wrapper .about-header {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.56;
+  letter-spacing: 0.18px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 41px;
+}
+
+#about .about-text-wrapper .about-main-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.75;
+  letter-spacing: 0.16px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+#about .about-text-wrapper .hire-me {
+  width: 202px;
+  height: 46px;
+  margin-top: 67px;
+  background-color: #ff2b4a;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: 0.16px;
+  text-align: center;
+  color: #fff;
+  border-style: none;
+}
 /*# sourceMappingURL=style.css.map */
