@@ -337,4 +337,32 @@ header .label-header-tags {
   text-align: center;
   color: #000;
 }
+
+#my-latest-works .mlw-img-wrapper {
+  margin-top: 108px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#my-latest-works .mlw-img-wrapper .mlw-img {
+  width: 283px;
+  height: 270px;
+  border-style: solid;
+  border-width: 6px;
+  border-color: #835aeb;
+  border-radius: 3%;
+  margin-bottom: 7px;
+}
+
+#my-latest-works .mlw-img-wrapper .mlw-img-bigger {
+  width: 578px;
+}
 /*# sourceMappingURL=style.css.map */
