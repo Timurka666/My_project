@@ -365,4 +365,120 @@ header .label-header-tags {
 #my-latest-works .mlw-img-wrapper .mlw-img-bigger {
   width: 578px;
 }
+
+#contact {
+  width: 100%;
+  height: 979px;
+  background-image: url(../images/backgroundHeader.jpg);
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: cover;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+#contact .contact-wrapper .mail {
+  height: 730px;
+  background-image: url(../images/backgroundHeader.jpg);
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: cover;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  padding-left: 43px;
+  padding-right: 43px;
+}
+
+#contact .contact-wrapper .mail .title {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: 3px;
+  text-align: left;
+  color: #fff;
+}
+
+#contact .contact-wrapper .mail .email-form {
+  margin-top: 64px;
+}
+
+#contact .contact-wrapper .mail .email-form input {
+  display: block;
+  width: 494px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(255, 255, 255, 0.3);
+  margin-bottom: 27px;
+}
+
+#contact .contact-wrapper .mail .email-form textarea {
+  display: block;
+  width: 494px;
+  height: 205px;
+  background-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(255, 255, 255, 0.3);
+  margin-bottom: 0px;
+  resize: none;
+}
+
+#contact .contact-wrapper .mail .email-form .hire-me {
+  width: 202px;
+  height: 46px;
+  margin-top: 36px;
+  margin-left: 291px;
+  background-color: #ff2b4a;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: 0.16px;
+  text-align: center;
+  color: #fff;
+  border-style: none;
+}
+
+#contact .contact-wrapper .info-wrapper .info {
+  height: 231px;
+  background-image: url(../images/backgroundHeader.jpg);
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: cover;
+  padding-top: 65px;
+  padding-left: 41px;
+  padding-right: 51px;
+  padding-bottom: 58px;
+  margin-bottom: 19px;
+}
+
+#contact .contact-wrapper .info-wrapper .info .title {
+  font-family: "Raleway";
+  font-size: 26px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.08;
+  letter-spacing: 3px;
+  text-align: left;
+  color: #fff;
+}
+
+#contact .contact-wrapper .info-wrapper .info .main-text {
+  margin-top: 42px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: 0.16px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.7);
+}
 /*# sourceMappingURL=style.css.map */
